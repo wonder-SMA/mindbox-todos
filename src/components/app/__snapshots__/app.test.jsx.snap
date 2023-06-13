@@ -1,0 +1,238 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > App1 snapshot didn't change 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-imWYAI bvYEZf"
+      >
+        <header
+          class="sc-aXZVg lzNdY"
+        >
+          <h1>
+            todos
+          </h1>
+        </header>
+        <div
+          class="sc-fqkvVR MFPXs"
+        >
+          <input
+            class="sc-gEvEer dwuOHR"
+            name="todo-input"
+            placeholder="Введите задачу"
+            type="text"
+            value=""
+          />
+          <button
+            class="sc-eqUAAy cEciBv"
+            name="add-todo"
+          >
+            Add todo
+          </button>
+        </div>
+        <div
+          class="sc-dcJsrY grLGtM"
+        >
+          <svg
+            class="todo-list-arrow-down"
+            role="presentation"
+            style="width: 2.25rem; height: 2.25rem;"
+            tabindex="0"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"
+              style="fill: #545454;"
+            />
+          </svg>
+          <p
+            class="todo-list-heading"
+          >
+            What needs to be done?
+          </p>
+        </div>
+        <ul
+          class="sc-gsFSXq ljmsXH"
+        />
+        <div
+          class="sc-kAyceB hYLNuf"
+        >
+          <p
+            class="items-left"
+          >
+            0 items left
+          </p>
+          <div>
+            <button
+              class="sc-eqUAAy iaJbGN"
+              name="all"
+            >
+              All
+            </button>
+            <button
+              class="sc-eqUAAy cEciBv"
+              name="active"
+            >
+              Active
+            </button>
+            <button
+              class="sc-eqUAAy cEciBv"
+              name="completed"
+            >
+              Completed
+            </button>
+            <button
+              class="sc-eqUAAy iaJbGN"
+              name="clear-completed"
+            >
+              Clear completed
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-imWYAI bvYEZf"
+    >
+      <header
+        class="sc-aXZVg lzNdY"
+      >
+        <h1>
+          todos
+        </h1>
+      </header>
+      <div
+        class="sc-fqkvVR MFPXs"
+      >
+        <input
+          class="sc-gEvEer dwuOHR"
+          name="todo-input"
+          placeholder="Введите задачу"
+          type="text"
+          value=""
+        />
+        <button
+          class="sc-eqUAAy cEciBv"
+          name="add-todo"
+        >
+          Add todo
+        </button>
+      </div>
+      <div
+        class="sc-dcJsrY grLGtM"
+      >
+        <svg
+          class="todo-list-arrow-down"
+          role="presentation"
+          style="width: 2.25rem; height: 2.25rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"
+            style="fill: #545454;"
+          />
+        </svg>
+        <p
+          class="todo-list-heading"
+        >
+          What needs to be done?
+        </p>
+      </div>
+      <ul
+        class="sc-gsFSXq ljmsXH"
+      />
+      <div
+        class="sc-kAyceB hYLNuf"
+      >
+        <p
+          class="items-left"
+        >
+          0 items left
+        </p>
+        <div>
+          <button
+            class="sc-eqUAAy iaJbGN"
+            name="all"
+          >
+            All
+          </button>
+          <button
+            class="sc-eqUAAy cEciBv"
+            name="active"
+          >
+            Active
+          </button>
+          <button
+            class="sc-eqUAAy cEciBv"
+            name="completed"
+          >
+            Completed
+          </button>
+          <button
+            class="sc-eqUAAy iaJbGN"
+            name="clear-completed"
+          >
+            Clear completed
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
