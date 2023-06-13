@@ -13,12 +13,10 @@
 
 1. Start the dev server with hot reload at http://localhost:5173.
    ```bash
-   npm run dev
+   npm run start
    ```
 
 2. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
-
-## Other commands
 
 ### Build commands
 
@@ -35,7 +33,7 @@ npm run build
 
 - Run e2e tests (before running e2e tests, start the dev server)
   ```bash
-  npm run dev
+  npm run start
   ```
   
   ```bash
